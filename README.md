@@ -1,4 +1,4 @@
- <># ImageDecomposition-DECT
+ # ImageDecomposition-DECT
 
 This reposity is organized mainly for an image decomposition algorithm which is proposed to solve the material decomposition problem in Dual-energy Computed Tomography (DECT). <br>
 
